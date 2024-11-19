@@ -65,7 +65,7 @@ function Banner() {
 
 <div className="main-banner-container pt-[50px] text-white">
   <div className="container mx-auto max-w-[1200px] px-4">
-    <div className="banner-flex-1 flex border-2 border-red-600">
+    <div className="flex">
      
       <div className="banner-header flex-[0_0_50%] max-w-[50%]">
         <div className="header">
